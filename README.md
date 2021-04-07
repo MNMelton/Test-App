@@ -1,2 +1,0 @@
-# Test-App
- DockerAzureTest
